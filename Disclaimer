@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Disclaimer | Career Update India</title>
+<style>
+body{font-family:Arial,sans-serif;line-height:1.7;margin:0;background:#f4f7fb;color:#263248}
+header,footer{background:#10264b;color:white;padding:18px 6%}
+header a,footer a{color:white}main{max-width:850px;margin:30px auto;padding:24px;background:white;border-radius:10px}
+h1,h2{color:#1769aa}
+</style>
+</head>
+<body>
+<header><a href="index.html">Career Update India</a></header>
+<main>
+<h1>Disclaimer</h1>
+<p>Last updated: October 2026</p>
+<p>The information on Career Update India is provided for general educational and informational purposes.</p>
+<h2>Job and Recruitment Information</h2>
+<p>Vacancies, eligibility requirements, salaries, fees, deadlines and selection procedures can change. Always verify the latest details through the official employer or recruiting authority before applying.</p>
+<h2>No Guarantee of Employment</h2>
+<p>Our guides are intended to help readers prepare for job applications. We do not guarantee employment, interview calls, examination results or selection.</p>
+<h2>External Websites</h2>
+<p>Links to external websites are provided for convenience. We are not responsible for their availability, accuracy, content or policies.</p>
+<h2>Professional Advice</h2>
+<p>Our articles provide general guidance and should not be treated as legal, financial or other professional advice.</p>
+<h2>Contact</h2>
+<p>Questions about this disclaimer can be sent through our <a href="contact.html">Contact page</a>.</p>
+<p><a href="index.html">← Back to Home</a></p>
+</main>
+<footer>© 2026 Career Update India</footer>
+</body>
+</html>
