@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Advertising Disclosure | Career Update India</title>
+<style>
+body{font-family:Arial,sans-serif;line-height:1.7;margin:0;background:#f4f7fb;color:#263248}
+header,footer{background:#10264b;color:white;padding:18px 6%}
+header a,footer a{color:white}main{max-width:850px;margin:30px auto;padding:24px;background:white;border-radius:10px}
+h1,h2{color:#1769aa}
+</style>
+</head>
+<body>
+<header><a href="index.html">Career Update India</a></header>
+<main>
+<h1>Advertising and Affiliate Disclosure</h1>
+<p>Last updated: October 2026</p>
+<p>Career Update India may display advertisements or publish links to third-party products and services.</p>
+<h2>Advertising</h2>
+<p>If advertising services such as Google AdSense are enabled, advertisements may appear on the website. Advertisements are served according to the advertising provider's systems, policies and settings.</p>
+<h2>Affiliate Links</h2>
+<p>If we use affiliate links in the future, we will identify them where appropriate. We may earn a commission from qualifying purchases through such links, at no additional cost to the buyer.</p>
+<h2>Editorial Independence</h2>
+<p>We aim to provide useful and accurate career information. Readers should independently evaluate third-party offers and verify job information through official sources.</p>
+<h2>Contact</h2>
+<p>For questions about advertising or affiliate links, visit our <a href="contact.html">Contact page</a>.</p>
+<p><a href="index.html">← Back to Home</a></p>
+</main>
+<footer>© 2026 Career Update India</footer>
+</body>
+</html>
