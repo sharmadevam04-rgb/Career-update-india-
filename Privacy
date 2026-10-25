@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Privacy Policy | Career Update India</title>
+<style>
+body{font-family:Arial,sans-serif;line-height:1.7;margin:0;background:#f4f7fb;color:#263248}
+header,footer{background:#10264b;color:white;padding:18px 6%}
+a{color:#1769aa}header a,footer a{color:white}
+main{max-width:850px;margin:30px auto;padding:24px;background:white;border-radius:10px}
+h1,h2{color:#1769aa}
+</style>
+</head>
+<body>
+<header><a href="index.html">Career Update India</a></header>
+<main>
+<h1>Privacy Policy</h1>
+<p>Last updated: October 2026</p>
+<p>Career Update India provides career information and educational articles. This policy explains how information may be handled when you visit this website.</p>
+<h2>Information You Provide</h2>
+<p>If you contact us, you may voluntarily provide information such as your name, email address and message. We use it to respond to your enquiry.</p>
+<h2>Cookies and Advertising</h2>
+<p>This website may use cookies or similar technologies for website functionality, analytics or advertising. Third-party advertising providers, including Google where enabled, may use cookies according to their own policies and your applicable settings.</p>
+<h2>Third-Party Links</h2>
+<p>Our articles may link to external websites. We do not control their content or privacy practices. Please review their policies before sharing information.</p>
+<h2>Data Security</h2>
+<p>We take reasonable steps to protect information submitted to us, but no internet transmission can be guaranteed completely secure.</p>
+<h2>Children's Privacy</h2>
+<p>This website is intended for general career information and is not designed to knowingly collect personal information from children.</p>
+<h2>Policy Updates</h2>
+<p>This policy may be updated when website features or practices change.</p>
+<h2>Contact</h2>
+<p>For privacy questions, use our <a href="contact.html">Contact page</a>.</p>
+<p><a href="index.html">← Back to Home</a></p>
+</main>
+<footer>© 2026 Career Update India</footer>
+</body>
+</html>
