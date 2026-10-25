@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Job application checklist for freshers in India.">
+<title>Job Application Checklist | Career Update India</title>
+<style>
+body{font-family:Arial,sans-serif;line-height:1.7;margin:0;background:#f4f7fb;color:#202b3c}
+header,footer{background:#10264b;color:white;padding:18px 6%}
+header a,footer a{color:white;text-decoration:none}
+main{max-width:850px;margin:30px auto;padding:25px;background:white;border-radius:12px}
+h1,h2{color:#1769aa}
+li{margin:10px 0}
+.btn{display:inline-block;background:#1769aa;color:white;padding:10px 16px;border-radius:6px;text-decoration:none}
+.checklist{padding:0;list-style:none}
+.checklist li{background:#f4f7fb;padding:10px;border-radius:6px}
+</style>
+</head>
+<body>
+<header><a href="../index.html"><strong>Career Update India</strong></a></header>
+<main>
+<p><a href="../index.html">Home</a> / Career Guides</p>
+<h1>Job Application Checklist</h1>
+<p>Use this checklist before submitting a job application. Requirements vary by employer, so always follow the official notification.</p>
+
+<h2>1. Personal Information</h2>
+<ul class="checklist">
+<li>☐ Full name matches your documents</li>
+<li>☐ Date of birth is correct</li>
+<li>☐ Phone number and email are active</li>
+<li>☐ Address and other required details are accurate</li>
+</ul>
+
+<h2>2. Education and Experience</h2>
+<ul class="checklist">
+<li>☐ Required qualification completed or expected as permitted</li>
+<li>☐ Marksheets and certificates are available</li>
+<li>☐ Experience or internship details are accurate</li>
+<li>☐ Professional registration is available if required</li>
+</ul>
+
+<h2>3. Upload Documents</h2>
+<ul class="checklist">
+<li>☐ Recent photograph meets the specified size</li>
+<li>☐ Signature meets the required format</li>
+<li>☐ Certificates are clear and readable</li>
+<li>☐ Category or domicile certificates are included if required</li>
+</ul>
+
+<h2>4. Review the Application</h2>
+<ul class="checklist">
+<li>☐ Check eligibility and age limits</li>
+<li>☐ Review every field before submitting</li>
+<li>☐ Confirm the deadline and application fee</li>
+<li>☐ Pay only through the official application portal</li>
+</ul>
+
+<h2>5. After Submission</h2>
+<ul class="checklist">
+<li>☐ Download or print the submitted application</li>
+<li>☐ Save the acknowledgement or registration number</li>
+<li>☐ Keep the payment receipt if applicable</li>
+<li>☐ Check the official website for further updates</li>
+</ul>
+
+<h2>Important Safety Tip</h2>
+<p>Never share your password, OTP or banking PIN with a recruiter. Do not pay anyone who promises guaranteed selection.</p>
+
+<p><a class="btn" href="../index.html">← Back to Career Update India</a></p>
+</main>
+<footer><p>Career Update India — Practical career guidance.</p><a href="../index.html">Home</a></footer>
+</body>
+</html>
