@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Career Update India - jobs, career guides, interview preparation and skills.">
+<meta name="description" content="Career Update India - government jobs, career guides, interview preparation and skills.">
 <title>Career Update India</title>
 <style>
 *{box-sizing:border-box}
@@ -12,6 +12,7 @@ header{background:#10264b;color:white;padding:18px 5%}
 nav{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px}
 .logo{font-size:22px;font-weight:bold}
 nav a{color:white;text-decoration:none;margin:5px 8px}
+nav a:hover{text-decoration:underline}
 .hero{background:linear-gradient(120deg,#10264b,#1769aa);color:white;text-align:center;padding:55px 18px}
 .hero h1{font-size:clamp(28px,5vw,44px);margin:0 0 12px}
 .hero p{max-width:650px;margin:0 auto 22px}
@@ -27,18 +28,22 @@ main{max-width:1100px;margin:auto;padding:30px 16px}
 .card p{color:#536078}
 .card a,.info a{color:#1769aa;font-weight:bold;text-decoration:none}
 .card a:hover,.info a:hover{text-decoration:underline}
+.job-links{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:14px}
+.job-links .card{margin-bottom:0}
 footer{background:#10264b;color:white;text-align:center;padding:25px 15px}
 footer a{color:white;margin:5px 9px}
 [hidden]{display:none!important}
 </style>
 </head>
 <body>
+
 <header>
 <nav>
 <div class="logo">Career Update India</div>
 <div>
 <a href="#home">Home</a>
 <a href="#articles">Career Guides</a>
+<a href="national-jobs.html">National Jobs</a>
 <a href="#resources">Resources</a>
 <a href="#about">About</a>
 </div>
@@ -47,19 +52,85 @@ footer a{color:white;margin:5px 9px}
 
 <section class="hero" id="home">
 <h1>Build Your Career with Confidence</h1>
-<p>Explore career guides, job search tips, interview preparation and useful digital skills.</p>
-<a class="btn" href="#articles">Explore Our Latest</a>
+<p>Explore government job portals, career guides, job search tips, interview preparation and useful digital skills.</p>
+<a class="btn" href="#articles">Explore Career Guides</a>
+<a class="btn" href="national-jobs.html">National Government Jobs</a>
 </section>
 
 <main>
+<section id="national">
+<h2>National Government Jobs</h2>
+<p>Visit official government recruitment websites to check notifications, eligibility and application dates.</p>
+<div class="job-links">
+<div class="card">
+<span class="tag">Central Government</span>
+<h3>SSC Recruitment</h3>
+<p>Check Staff Selection Commission examinations and notices.</p>
+<a href="https://ssc.gov.in/" target="_blank" rel="noopener">Official Website →</a>
+</div>
+<div class="card">
+<span class="tag">Civil Services</span>
+<h3>UPSC Recruitment</h3>
+<p>Find UPSC examination notifications and official updates.</p>
+<a href="https://upsc.gov.in/" target="_blank" rel="noopener">Official Website →</a>
+</div>
+<div class="card">
+<span class="tag">Railways</span>
+<h3>Railway Jobs</h3>
+<p>Start with the official Indian Railways website and relevant RRB portal.</p>
+<a href="https://indianrailways.gov.in/" target="_blank" rel="noopener">Official Website →</a>
+</div>
+<div class="card">
+<span class="tag">Postal Department</span>
+<h3>India Post Jobs</h3>
+<p>Check official postal recruitment information and vacancies.</p>
+<a href="https://www.indiapost.gov.in/vacancies" target="_blank" rel="noopener">Vacancies →</a>
+</div>
+<div class="card">
+<span class="tag">Space Research</span>
+<h3>ISRO Careers</h3>
+<p>Explore technical, scientific and other recruitment opportunities.</p>
+<a href="https://www.isro.gov.in/ViewAllOpportunities.html" target="_blank" rel="noopener">Current Opportunities →</a>
+</div>
+<div class="card">
+<span class="tag">Defence</span>
+<h3>Indian Army Jobs</h3>
+<p>Check recruitment notices, eligibility and selection procedures.</p>
+<a href="https://joinindianarmy.nic.in/" target="_blank" rel="noopener">Official Portal →</a>
+</div>
+<div class="card">
+<span class="tag">Healthcare</span>
+<h3>AIIMS Exams</h3>
+<p>Check official examination and recruitment-related information.</p>
+<a href="https://www.aiimsexams.ac.in/" target="_blank" rel="noopener">Official Website →</a>
+</div>
+<div class="card">
+<span class="tag">Banking</span>
+<h3>IBPS Recruitment</h3>
+<p>Explore bank recruitment examinations and notifications.</p>
+<a href="https://www.ibps.in/" target="_blank" rel="noopener">Official Website →</a>
+</div>
+<div class="card">
+<span class="tag">Career Services</span>
+<h3>National Career Service</h3>
+<p>Explore employment services and career opportunities.</p>
+<a href="https://www.ncs.gov.in/" target="_blank" rel="noopener">Official Website →</a>
+</div>
+</div>
+<p><a class="btn" href="national-jobs.html">View All National Job Links</a></p>
+<p><small>Note: These links are official portals, not confirmation of an active vacancy. Check the latest notification and closing date before applying.</small></p>
+</section>
+
+<hr>
+
 <section id="articles">
-<h2>Explore Our Latest</h2>
-<p>Choose a topic to explore our career guides.</p>
+<h2>Career Guides</h2>
+<p>Choose a topic to explore beginner-friendly career guides.</p>
 <div class="filters">
-<button class="filter active" data-category="all">All topics</button>
-<button class="filter" data-category="jobs">Jobs</button>
-<button class="filter" data-category="skills">Skills</button>
-<button class="filter" data-category="applications">Applications</button>
+<button type="button" class="filter active" data-category="all">All topics</button>
+<button type="button" class="filter" data-category="jobs">Jobs</button>
+<button type="button" class="filter" data-category="skills">Skills</button>
+<button type="button" class="filter" data-category="applications">Applications</button>
 </div>
 
 <div class="grid" id="article-grid">
@@ -112,7 +183,8 @@ footer a{color:white;margin:5px 9px}
 <p>Use these resources to prepare your CV, improve your skills and organise your job search.</p>
 <a href="articles/fresher-cv.html">CV Guide</a> |
 <a href="articles/interview-preparation.html">Interview Guide</a> |
-<a href="articles/application-checklist.html">Application Checklist</a>
+<a href="articles/application-checklist.html">Application Checklist</a> |
+<a href="national-jobs.html">National Jobs</a>
 </section>
 
 <section class="info" id="about">
@@ -148,5 +220,6 @@ buttons.forEach(function(button){
 });
 document.getElementById("year").textContent=new Date().getFullYear();
 </script>
+
 </body>
 </html>
