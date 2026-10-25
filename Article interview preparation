@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Interview preparation guide for freshers in India.">
+<title>Interview Preparation | Career Update India</title>
+<style>
+body{font-family:Arial,sans-serif;line-height:1.7;margin:0;background:#f4f7fb;color:#202b3c}
+header,footer{background:#10264b;color:white;padding:18px 6%}
+header a,footer a{color:white;text-decoration:none}
+main{max-width:850px;margin:30px auto;padding:25px;background:white;border-radius:12px}
+h1,h2{color:#1769aa}
+li{margin:8px 0}
+.btn{display:inline-block;background:#1769aa;color:white;padding:10px 16px;border-radius:6px;text-decoration:none}
+</style>
+</head>
+<body>
+<header><a href="../index.html"><strong>Career Update India</strong></a></header>
+<main>
+<p><a href="../index.html">Home</a> / Career Guides</p>
+<h1>Interview Preparation for Freshers</h1>
+<p>Preparing in advance can help you explain your qualifications, skills and career goals clearly during a job interview.</p>
+
+<h2>1. Research the Company</h2>
+<p>Visit the official website and understand its products, services, location and the role you are applying for.</p>
+
+<h2>2. Prepare Your Introduction</h2>
+<p>Example: “Good morning. I have completed my graduation and developed knowledge in my field through academic projects and practical learning. I am looking for an opportunity to apply my skills, learn from experienced professionals and contribute to the organisation.”</p>
+
+<h2>3. Common Interview Questions</h2>
+<ul>
+<li>Tell me about yourself.</li>
+<li>Why do you want to join our company?</li>
+<li>What are your strengths?</li>
+<li>What skills are relevant to this job?</li>
+<li>Why should we hire you?</li>
+<li>What are your career goals?</li>
+</ul>
+
+<h2>4. Answering Questions</h2>
+<p>Keep answers honest, clear and relevant. Use examples from college projects, training or previous work wherever possible.</p>
+
+<h2>5. Documents to Carry</h2>
+<ul>
+<li>Updated CV</li>
+<li>Education certificates and marksheets, if requested</li>
+<li>Experience or training certificates, if applicable</li>
+<li>Valid identity document, if requested</li>
+<li>Interview invitation or contact details</li>
+</ul>
+
+<h2>6. Interview Day Tips</h2>
+<ul>
+<li>Arrive on time.</li>
+<li>Dress appropriately.</li>
+<li>Listen carefully before answering.</li>
+<li>Ask relevant questions about responsibilities and training.</li>
+<li>Never pay money to guarantee a job offer.</li>
+</ul>
+
+<p><a class="btn" href="../index.html">← Back to Career Update India</a></p>
+</main>
+<footer><p>Career Update India — Practical career guidance.</p><a href="../index.html">Home</a></footer>
+</body>
+</html>
