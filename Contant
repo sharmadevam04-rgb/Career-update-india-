@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Free digital skills for beginners to improve employability and career opportunities.">
+<title>Free Digital Skills | Career Update India</title>
+<style>
+body{font-family:Arial,sans-serif;line-height:1.7;margin:0;background:#f4f7fb;color:#202b3c}
+header,footer{background:#10264b;color:white;padding:18px 6%}
+header a,footer a{color:white;text-decoration:none}
+main{max-width:850px;margin:30px auto;padding:25px;background:white;border-radius:12px}
+h1,h2{color:#1769aa}
+li{margin:8px 0}
+.btn{display:inline-block;background:#1769aa;color:white;padding:10px 16px;border-radius:6px;text-decoration:none}
+</style>
+</head>
+<body>
+<header><a href="../index.html"><strong>Career Update India</strong></a></header>
+<main>
+<p><a href="../index.html">Home</a> / Career Guides</p>
+<h1>Free Digital Skills to Learn</h1>
+<p>Digital skills can help beginners prepare for office jobs, customer support, freelancing and other career opportunities. Start with free learning resources and regular practice.</p>
+
+<h2>1. Email and Professional Communication</h2>
+<p>Learn to write clear emails, attach files, use appropriate subject lines and communicate politely with employers.</p>
+
+<h2>2. Documents and Word Processing</h2>
+<p>Practise preparing CVs, letters, reports and formatted documents. Learn headings, page layout, tables and PDF export.</p>
+
+<h2>3. Spreadsheets</h2>
+<p>Start with rows, columns, sorting, filters, basic formulas and simple tables. These skills are useful in administration and data-related work.</p>
+
+<h2>4. Online Research</h2>
+<p>Learn to find official websites, compare information and identify trustworthy sources. Verify job vacancies directly with employers.</p>
+
+<h2>5. Customer Support Skills</h2>
+<p>Practise polite written responses, active listening, problem-solving and accurate record keeping. Improve typing speed gradually.</p>
+
+<h2>6. Video Meetings and Teamwork</h2>
+<p>Learn to join meetings, mute your microphone, share documents safely and communicate clearly with colleagues.</p>
+
+<h2>7. Free Learning Resources</h2>
+<ul>
+<li><a href="https://www.gcfglobal.org/" target="_blank" rel="noopener noreferrer">GCFGlobal — digital and computer basics</a></li>
+<li><a href="https://skillshop.withgoogle.com/" target="_blank" rel="noopener noreferrer">Google Skillshop — online learning</a></li>
+<li><a href="https://swayam.gov.in/" target="_blank" rel="noopener noreferrer">SWAYAM — online courses</a></li>
+<li><a href="https://www.microsoft.com/en-us/learn" target="_blank" rel="noopener noreferrer">Microsoft Learn — technology learning</a></li>
+</ul>
+
+<h2>Simple 7-Day Practice Plan</h2>
+<ul>
+<li>Day 1: Create a professional email and practise writing.</li>
+<li>Day 2: Prepare a one-page CV.</li>
+<li>Day 3: Create a document with headings and a table.</li>
+<li>Day 4: Practise spreadsheet basics.</li>
+<li>Day 5: Research five legitimate employers.</li>
+<li>Day 6: Practise customer support responses.</li>
+<li>Day 7: Review your work and update your CV.</li>
+</ul>
+
+<p>Remember: free courses can build skills, but employment is not guaranteed. Avoid paying unknown people for guaranteed jobs.</p>
+<p><a class="btn" href="../index.html">← Back to Career Update India</a></p>
+</main>
+<footer><p>Career Update India — Practical career guidance.</p><a href="../index.html">Home</a></footer>
+</body>
+</html>
