@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Learn how to identify fake job offers and recruitment scams in India.">
+<title>How to Spot a Job Scam | Career Update India</title>
+<style>
+body{font-family:Arial,sans-serif;line-height:1.7;margin:0;background:#f4f7fb;color:#202b3c}
+header,footer{background:#10264b;color:white;padding:18px 6%}
+header a,footer a{color:white;text-decoration:none}
+main{max-width:850px;margin:30px auto;padding:25px;background:white;border-radius:12px}
+h1,h2{color:#1769aa}
+li{margin:9px 0}
+.warning{background:#fff2e8;border-left:4px solid #d35400;padding:14px;border-radius:6px}
+.btn{display:inline-block;background:#1769aa;color:white;padding:10px 16px;border-radius:6px;text-decoration:none}
+</style>
+</head>
+<body>
+<header><a href="../index.html"><strong>Career Update India</strong></a></header>
+<main>
+<p><a href="../index.html">Home</a> / Career Guides</p>
+<h1>How to Spot a Job Scam</h1>
+<p>Fake recruitment offers can target freshers and experienced job seekers. Check the employer and vacancy carefully before sharing documents or making payments.</p>
+
+<h2>1. Warning Signs</h2>
+<ul>
+<li>A recruiter promises guaranteed selection in exchange for money.</li>
+<li>You are asked to pay a security deposit or recruitment fee to a personal account.</li>
+<li>The offer arrives without a credible interview or selection process.</li>
+<li>The recruiter uses suspicious email addresses or impersonates a known company.</li>
+<li>You are pressured to act immediately without time to verify details.</li>
+<li>The salary or benefits seem unusually attractive for the role and requirements.</li>
+</ul>
+
+<h2>2. Verify the Employer</h2>
+<p>Visit the employer's official website independently. Find its careers page and check whether the vacancy, recruiter and contact details are genuine. Do not rely only on links sent in messages.</p>
+
+<h2>3. Protect Your Information</h2>
+<ul>
+<li>Never share passwords, OTPs or banking PINs.</li>
+<li>Do not install unknown apps at a recruiter's request.</li>
+<li>Be careful when sharing identity documents or bank details.</li>
+<li>Use official application portals whenever possible.</li>
+</ul>
+
+<h2>4. Before Paying Any Fee</h2>
+<p>Read the official recruitment notification and verify whether a fee is authorised. Never pay a personal contact who claims they can guarantee selection or arrange an offer letter.</p>
+
+<h2>5. If You Suspect a Scam</h2>
+<div class="warning">
+<strong>Stop communicating and preserve the evidence.</strong>
+<p>Keep messages, phone numbers, receipts, payment details and screenshots. Contact your bank or payment provider quickly if you transferred money.</p>
+</div>
+
+<p>In India, report suspected cybercrime at <a href="https://cybercrime.gov.in/" target="_blank" rel="noopener noreferrer">National Cyber Crime Reporting Portal</a>. If money has been lost to cyber fraud, call the national cybercrime helpline at <strong>1930</strong> as soon as possible.</p>
+
+<h2>Final Checklist</h2>
+<ul>
+<li>Verify the vacancy on the official website.</li>
+<li>Check the recruiter's identity.</li>
+<li>Read the selection process and fee details.</li>
+<li>Do not trust guaranteed-selection promises.</li>
+<li>Keep records of all communications and payments.</li>
+</ul>
+
+<p><a class="btn" href="../index.html">← Back to Career Update India</a></p>
+</main>
+<footer><p>Career Update India — Practical career guidance.</p><a href="../index.html">Home</a></footer>
+</body>
+</html>
